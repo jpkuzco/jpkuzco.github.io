@@ -1,0 +1,45 @@
+.header {
+    font-weight: 500; 
+    color: Black;
+    font-size: 20px;
+  }
+
+  body {
+    background-color: FloralWhite;
+    font-family: Arial;
+    text-align: center;
+  }  
+
+  h2 {
+    font-weight: bold;
+    color: FireBrick;
+    font-size: 20px;
+  } 
+  
+  thead {
+    background-color: PaleVioletRed;
+    text-align: center;
+  }
+  
+  table {
+    border: 1px solid FireBrick;
+    text-align: left;
+    width: 650px;
+    margin: 0 auto;
+  }
+  
+  mark {
+    background-color: PapayaWhip;
+    color: black;
+    font-family: monospace;
+  }
+  
+  td {
+    border-top: 1px solid FireBrick;
+  }  
+  
+  footer {
+    font-family: monospace;
+    text-align: right;
+  }
+  
